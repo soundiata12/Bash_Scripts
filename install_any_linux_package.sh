@@ -1,6 +1,6 @@
 #!/bin/bash
 #Autor: keita
-#Discription: This is for install the httpd package
+#Discription: This is for install any packages
 #Date creation: 07/25/2024
 #Date of mofity: 07/26/2024
 
